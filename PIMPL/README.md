@@ -1,5 +1,5 @@
 ### PIMPLE (or PIMPL) stands for “Pointer to IMPLementation”.
-It is a C++ programming technique that hides the implementation details of a class from its object representation by placing them in a separate class, accessed through an opaque pointer1. This technique is used to construct C++ library interfaces with stable ABI and to reduce compile-time dependencies1.
+It is a C++ programming technique that hides the implementation details of a class from its object representation by placing them in a separate class, accessed through an opaque pointer. This technique is used to construct C++ library interfaces with stable ABI and to reduce compile-time dependencies.
 
 ### Advatages of PIMPL pattern
 
